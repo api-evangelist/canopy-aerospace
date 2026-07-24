@@ -1,7 +1,16 @@
 aid: canopy-aerospace
-name: Canopy Aerospace
-description: Canopy Aerospace is a company surfaced as a portfolio company of techstars and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: Canopy Aerospace & Defense
+description: Canopy Aerospace & Defense (Canopy A&D) is a vertically integrated advanced
+  materials platform serving the aerospace, defense, space, maritime, and power-electronics
+  industries. The company manufactures and delivers highly specialized materials with
+  exceptional insulative, absorptive, and signal-reducing characteristics, including
+  thermal protection systems (TPS), ultra-high-temperature ceramics, additive-manufactured
+  ceramic components, multi-layer insulation and soft goods, and composite structures.
+  Formed by Trive Capital through the combination of Canopy Aerospace, Hera Technologies,
+  and MSM Industries, Canopy partners with OEMs from initial design and R&D through
+  turnkey manufacturing and refurbishment of reusable platforms, operating facilities
+  across the US, UK, and Netherlands. This is a physical materials manufacturer and
+  publishes no public developer API; this profile captures its web and identity surface.
 url: https://raw.githubusercontent.com/api-evangelist/canopy-aerospace/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +18,31 @@ x-backed-by:
 - techstars
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://www.canopy-ad.com/
 tags:
 - Company
+- Aerospace
+- Defense
+- Space
+- Advanced Materials
+- Thermal Protection Systems
+- Hypersonics
+- Additive Manufacturing
+- Ceramics
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +50,24 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/canopy-aerospace-domain-security.yml
 - type: Website
-  url: https://canopyaerospace.com/
+  url: https://www.canopy-ad.com/
+- type: Blog
+  url: https://www.canopy-ad.com/newsroom
+- type: Support
+  url: https://www.canopy-ad.com/#contact
+- type: PrivacyPolicy
+  url: https://www.canopy-ad.com/privacy-policy
+- type: TermsOfService
+  url: https://www.canopy-ad.com/terms-of-service
+- type: LinkedIn
+  url: https://www.linkedin.com/company/canopy-aerospace-defense
+- type: LLMsTxt
+  url: llms/canopy-aerospace-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

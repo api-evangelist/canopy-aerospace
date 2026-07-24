@@ -1,0 +1,52 @@
+# Canopy Aerospace & Defense
+
+> Canopy Aerospace & Defense (Canopy A&D) manufactures and delivers highly specialized advanced materials with exceptional insulative, absorptive, and signal-reducing characteristics for the space and defense markets. The company provides end-to-end solutions — from R&D and material engineering through turnkey manufacturing and refurbishment — for platforms operating in extreme environments from the ocean floor to outer space.
+
+Canopy A&D is a vertically integrated advanced materials platform serving aerospace, defense, space, maritime, and power electronics industries. The company partners with OEMs from the initial design phase, providing R&D material and system engineering services through to turnkey manufacturing and refurbishment services on reusable platforms. Canopy operates multiple facilities across the US, UK, and Europe through its subsidiary companies.
+
+## Industries
+
+- [Aerospace & Defense](https://www.canopy-ad.com/#industries): Thermal management components and systems for hypersonic and high-performance flight platforms — cooling for high-power electronics and high-temperature thermal protection for propulsion
+- [Space & Launch Operations](https://www.canopy-ad.com/industry/space-launch-operations): Ultra-high-temperature ceramics, thermal protection systems, and ceramic components for reusable launch vehicles, space vehicle re-entry, hypersonic platforms, and next-generation defense applications
+- [Maritime](https://www.canopy-ad.com/#industries): Composite, silicone, rubber, urethane, epoxy, and metallic components with end-to-end program management and systems integration for mission-critical maritime requirements
+- [Power & Electronics](https://www.canopy-ad.com/#industries): Advanced ceramics combining thermal conductivity with electrical insulation for semiconductors, power electronics, RF, nuclear, solar, and directed energy applications
+
+## Research & Innovation
+
+- [Canopy Technologies — R&D Center](https://www.canopy-ad.com/research-innovation): 20,000 sq ft R&D and manufacturing campus in Littleton, CO — home to additive manufacturing, high-temperature furnaces, and material labs
+- [Ceramic Additive Manufacturing](https://www.canopy-ad.com/research-innovation): 3D-printed ceramics producing mission-critical components with durability, precision, and thermal performance
+- [Autonomous TPS Coatings](https://www.canopy-ad.com/research-innovation): Robotic spray technology using computer vision and closed-loop logic for consistent, rapid thermal protection system coating application
+- [Smart TPS Through Embedded Sensing](https://www.canopy-ad.com/research-innovation): Embedded sensors in thermal protection systems enabling mid-flight adaptation and real-time reliability monitoring
+- [Transpiration-Cooled TPS](https://www.canopy-ad.com/research-innovation): Active thermal control systems that expel cooling fluid through complex internal geometries during hypersonic flight and reentry
+- [Custom Material Development](https://www.canopy-ad.com/research-innovation): Tailored materials for signal reduction, thermal protection, and specialized mission requirements — each purpose-built and proven under demanding conditions
+
+## Core Offerings
+
+- [Thermal Protection Systems](https://www.canopy-ad.com/industry/space-launch-operations): Flight-heritage TPS materials used by NASA and commercial launch companies — tailored for launch, re-entry, or hypersonic environments
+- [Design & Analysis](https://www.canopy-ad.com/industry/space-launch-operations): End-to-end engineering from prototype to flight hardware, including materials optimization for launch, orbital, and re-entry environments
+- [Multi-layer Insulation & Soft Goods](https://www.canopy-ad.com/industry/space-launch-operations): MLI blankets and soft goods using aluminized films, technical fabrics, and specialty composites with custom stack-up configurations
+- [Ceramics for Power Electronics](https://www.canopy-ad.com/industry/space-launch-operations): High-performance technical ceramics for electrical insulation, thermal management, and mechanical stability in aerospace and defense
+- [Ceramic 3D Printing](https://www.canopy-ad.com/industry/space-launch-operations): Additive-manufactured ceramic components that outperform metals in high-temperature or chemically extreme environments
+
+## Group Companies & Facilities
+
+- [Canopy Aerospace & Defense — Dallas, TX](https://www.canopy-ad.com/): Group headquarters and primary operations
+- [Canopy Technologies — Littleton, CO](https://www.canopy-ad.com/research-innovation): 20,000 sq ft R&D, manufacturing, and materials development facility
+- [Hera Technologies — Ontario, CA & Cape Canaveral, FL](https://www.heratechnologies.com/): 82,000 sq ft — industry's #1 thermal protection systems provider, CNC machined parts, composites, and soft goods
+- [MSM Industries — Riverside, CA](https://www.msm-ind.com/): 33,000 sq ft — signal reduction materials and systems integration for maritime and defense
+- [TODS Technology — Portland, UK](https://www.tods.co.uk/): Advanced composite structures for marine defence
+- [Canopy International — Amsterdam, Netherlands](https://www.canopy-ad.eu/): International operations delivering Canopy's capabilities to European and global defense and space customers
+
+## Careers
+
+- [Open Positions](https://www.canopy-ad.com/careers): Roles across Canopy A&D, Canopy Technologies (Littleton, CO), Hera Technologies (Ontario, CA), and MSM Industries (Riverside, CA) — employer-sponsored healthcare, retirement, flexible vacation, and professional development
+
+## Contact
+
+- [Contact Canopy A&D](https://www.canopy-ad.com/#contact): Reach out for RFQs, partnerships, or project inquiries
+- Vendor inquiries: vendors@canopy-ad.com
+
+## Optional
+
+- [Privacy Policy](https://www.canopy-ad.com/privacy-policy)
+- [Terms of Service](https://www.canopy-ad.com/terms-of-service)
